@@ -1,0 +1,127 @@
+windows:
+  - name: atlas
+    root: ~/Projects/Alexia/atlas
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: billingengine
+    root: ~/Projects/Alexia/billingengine
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: callmgr
+    root: ~/Projects/Alexia/callmgr
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: cdrcollector
+    root: ~/Projects/Alexia/cdrcollector
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: coreapi
+    root: ~/Projects/Alexia/coreapi
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: corelibalexia
+    root: ~/Projects/Alexia/corelibalexia
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: corelibutils
+    root: ~/Projects/Alexia/corelibutils
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: dts
+    root: ~/Projects/Alexia/dts
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: eventsmanager
+    root: ~/Projects/Alexia/eventsmanager
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: flyhalf
+    root: ~/Projects/Alexia/flyhalf
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: mediaprocessor
+    root: ~/Projects/Alexia/mediaprocessor
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: taskscheduler
+    root: ~/Projects/Alexia/taskscheduler
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: taskworker
+    root: ~/Projects/Alexia/taskworker
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: webapi
+    root: ~/Projects/Alexia/webapi
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+

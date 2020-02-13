@@ -20,6 +20,11 @@ cd ..
 rm -rf Python-3.6.8
 rm -rf Python-3.6.8.tgz
 
+sudo apt install tmux
+sudo apt install fish
+sudo apt install ruby
+gem install teamocil
+
 
 sudo apt install -y git
 cd 
