@@ -26,6 +26,15 @@ windows:
       - commands:
         - git status
 
+  - name: caissa
+    root: ~/Projects/Alexia/caissa
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
   - name: cdrcollector
     root: ~/Projects/Alexia/cdrcollector
     layout: main-vertical
@@ -109,6 +118,15 @@ windows:
 
   - name: taskworker
     root: ~/Projects/Alexia/taskworker
+    layout: main-vertical
+    panes:
+      - commands:
+        - source env/bin/activate.fish
+      - commands:
+        - git status
+
+  - name: vertomgr
+    root: ~/Projects/Alexia/vertomgr
     layout: main-vertical
     panes:
       - commands:
